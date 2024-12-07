@@ -1,6 +1,6 @@
 # miscellaneous-notes
 - [X] [SideCar Pattern](./sidecar-pattern.md)
 - [X] [JWT Authentication](./jwt-authentication.md)
-- [ ] Base64 Encoding
+- [X] [Base64 Encoding](./base64-encoding.md)
 - [ ] Hashing Algorithm 
 - [ ] Permission using Bits
