@@ -1,0 +1,4 @@
+- https://modelcontextprotocol.io/introduction 
+- model context protocol
+- a way to add context to llms 
+- quickstart done https://github.com/vikash1a/mcp-playground 
